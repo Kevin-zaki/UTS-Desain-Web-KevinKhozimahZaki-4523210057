@@ -1,4 +1,4 @@
-Ini adalah Tampilan Awal Website saya yang bernama BETAWI MUDA FARM. BETAWI MUDA FARM adalah Website yang dimana bertujuan untuk membangun sektor perternakan dan perikanan bersama generasi muda dengan melihat banyaknya peluang yang dapat didapatkan dalam sektor ini.
+Berikut adalah Tampilan awal Website saya yang bernama BETAWI MUDA FARM. BETAWI MUDA FARM adalah suatu Website yang dimana bertujuan untuk membangun sektor Pertanian dan Peternakan bersama generasi muda dengan melihat banyaknya peluang yang bisa didapat dalam sektor ini.
 
 Link Video Tampilan Awal : (https://drive.google.com/drive/folders/147e5Er3wyXIUnFkGWiIg-MbTd-2Ab5ue?usp=sharing)
 
