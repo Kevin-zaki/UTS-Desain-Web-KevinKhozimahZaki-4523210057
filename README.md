@@ -27,7 +27,9 @@ Konten Dinamis: Menggunakan elemen-elemen visual menarik untuk meningkatkan peng
 <-- Teknologi yang digunakan -->
 
 HTML5: Untuk struktur dan konten website.
+
 CSS3: Untuk desain dan tata letak, termasuk fitur responsif.
+
 JavaScript (opsional): Untuk meningkatkan interaktivitas.
 
 Berikut adalah Tampilan Website saya yang bernama BETAWI MUDA FARM.
