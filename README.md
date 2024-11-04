@@ -6,6 +6,7 @@ Berikut adalah Tampilan awal Website saya yang bernama BETAWI MUDA FARM. BETAWI 
  -> NPM    : 4523210057
  
  -> Mata Kuliah  : Desain Web
+ 
  -> Dosen  : Adi Wahyu Pribadi, S.Si., M.Kom
 
  <-- Tujuan Proyek -->
@@ -31,7 +32,7 @@ JavaScript (opsional): Untuk meningkatkan interaktivitas.
 
 Berikut adalah Tampilan Website saya yang bernama BETAWI MUDA FARM.
 
-Link Video Tampilan Awal : (https://drive.google.com/drive/folders/147e5Er3wyXIUnFkGWiIg-MbTd-2Ab5ue?usp=sharing)
+**Link Video Tampilan Awal : (https://drive.google.com/drive/folders/147e5Er3wyXIUnFkGWiIg-MbTd-2Ab5ue?usp=sharing)**
 
 Tampilan awal dengan ditambahkan video pada halaman utama untuk memperjelas tujuan website ini
 ![website](https://github.com/user-attachments/assets/ca5c1827-d47d-4a16-907e-7ecd9d3f9ade)
@@ -43,6 +44,7 @@ Tampilan Galery dan Lastest Blog
 ![website](https://github.com/user-attachments/assets/30410c5e-f7ae-4c51-bd6a-3eaa00822077)
 
 Tampilan Menu Contact
+![website](https://github.com/user-attachments/assets/905f4dc5-aa52-4377-aaa7-e776edbed0cc)
 
 
 
