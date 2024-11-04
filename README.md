@@ -39,5 +39,11 @@ Tampilan awal dengan ditambahkan video pada halaman utama untuk memperjelas tuju
 Tampilan About Us dan Support
 ![website](https://github.com/user-attachments/assets/f709fd80-2de3-4af7-8c89-b6ec47c74e7b)
 
+Tampilan Galery dan Lastest Blog
+![website](https://github.com/user-attachments/assets/30410c5e-f7ae-4c51-bd6a-3eaa00822077)
+
+Tampilan Menu Contact
+
+
 
 
