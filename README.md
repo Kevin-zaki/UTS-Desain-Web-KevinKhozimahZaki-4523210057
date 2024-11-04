@@ -1,6 +1,7 @@
 Berikut adalah Tampilan awal Website saya yang bernama BETAWI MUDA FARM. BETAWI MUDA FARM adalah suatu Website yang dimana bertujuan untuk membangun sektor Pertanian dan Peternakan bersama generasi muda dengan melihat banyaknya peluang yang bisa didapat dalam sektor ini.
 
 <--Informasi-->
+
  -> Nama   : Kevin Khozimah Zaki
  
  -> NPM    : 4523210057
