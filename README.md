@@ -34,4 +34,8 @@ Link Video Tampilan Awal : (https://drive.google.com/drive/folders/147e5Er3wyXIU
 Tampilan awal dengan ditambahkan video pada halaman utama untuk memperjelas tujuan website ini
 ![website](https://github.com/user-attachments/assets/ca5c1827-d47d-4a16-907e-7ecd9d3f9ade)
 
+Tampilan About Us dan Support
+![website](https://github.com/user-attachments/assets/f709fd80-2de3-4af7-8c89-b6ec47c74e7b)
+
+
 
